@@ -54,3 +54,9 @@ Start docker container
 ```
 docker-compose start
 ```
+
+Show logs
+
+```
+docker-compose logs
+```
