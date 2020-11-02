@@ -5,5 +5,5 @@ services:
     build: .
     restart: unless-stopped
     volumes:
-     - ./telegram-rss-bot:/home/user/app
-    command: python -u /home/user/app/telegram-rss-bot.py --interval 60
+     - ./your-folder:/home/user/app
+    command: python -u /home/user/app/your-bot.py

@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
  
  - Docker compose
- - Create or copy a file called **requirement.txt** in the root of the project that contains all the libraries necessary for the bot's operation, separated by newlines.
+ - Create or copy a file called **requirement.txt** in the root of the project that contains all the libraries necessary for the bot operation, separated by newlines.
  - Create a subfolder will contain the python file or you can also clone a repository in the root directory
  
 ### Installing
